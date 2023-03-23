@@ -1,6 +1,6 @@
 # rxjs
 Studying the RXJS library in order to understand its fundamentals
 # npm install
-Para instalar todas as dependências do projeto
+To install all project dependencies
 # npm start
-Para executar o projeto
+To execute the project
